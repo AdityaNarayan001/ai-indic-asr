@@ -1,0 +1,5 @@
+/asr_model/ai4b_indicConformer_kn.nemo
+/indic_asr_env
+/processed_audio/mono_left.wav
+/raw_audio/sample_audio.wav
+/NeMo
